@@ -24,7 +24,7 @@
 
 # OSX
 .DS_Store
-.idea
+.idea/
 
 /public/packs
 /public/packs-test
