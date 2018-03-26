@@ -3,9 +3,11 @@ import PropTypes from "prop-types"
 class HelloWorld extends React.Component {
   render () {
     return (
-      <React.Fragment>
-        Greeting: {this.props.greeting}
-      </React.Fragment>
+      <div>
+        <h1>Greeting: {this.props.greeting}</h1>
+        <h1>Greeting: {this.props.greeting}</h1>
+        <h1>Greeting: {this.props.greeting}</h1>
+      </div>
     );
   }
 }
