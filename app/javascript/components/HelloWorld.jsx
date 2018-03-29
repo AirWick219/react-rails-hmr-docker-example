@@ -5,8 +5,6 @@ class HelloWorld extends React.Component {
     return (
       <div>
         <h1>Greeting: {this.props.greeting}</h1>
-        <h1>Greeting: {this.props.greeting}</h1>
-        <h1>Greeting: {this.props.greeting}</h1>
       </div>
     );
   }
