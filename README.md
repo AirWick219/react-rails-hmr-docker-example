@@ -10,6 +10,9 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
+  * Run ` docker-compose up --build `
+  * Go to `http://localhost:3000/`
+  * Change /app/javascript/components/HelloWorld.jsx should Hmr
 
 * Database creation
 
